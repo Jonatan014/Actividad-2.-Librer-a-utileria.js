@@ -2,7 +2,8 @@
 
 ## Autor
 
-**Nombre:** Jonatan (Aquí puedes poner tu nombre completo)
+**Nombre:** Jonatan Gadiel Hernández Ruiz
+**Materia:** Programación Web
 
 ## Descripción
 
@@ -136,7 +137,8 @@ Vista inicial del login (`login.html`) al ingresar a la página.
 ---
 
 # Video demostrativo
-
+El siguiente video muestra el funcionamiento de la librería **utileria.js** 
+[▶ Ver video](https://drive.google.com/file/d/12LNlqE3rBzMBUhJdUO43RJFjNLDgrKMr/view?usp=sharing)
 
 ---
 
